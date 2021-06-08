@@ -1,6 +1,6 @@
 # Tokopedia-Scrapper-Products Tools
 
-Project is created by Java8 and using some scrapper library.
+Project is created by Java8 and work with headless browser scrapper method.
 
 ## Description
 
@@ -11,7 +11,10 @@ The project created with love from Yogyakarta
 
 ### Dependencies
 
-* Installed ChromeWebDriver and Chrome/Chromium
+* Installed ChromeWebDriver and Chrome/Chromium (https://chromedriver.chromium.org/downloads)
+* Maven
+* Java 8
+* Selenium
 
 ### Installing
 
