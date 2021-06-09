@@ -37,7 +37,8 @@ public class FileService {
                             product.getName(),
                             product.getDescription()
                                     .replace("\n", " ")
-                                    .replace("\t", " "),
+                                    .replace("\t", " ")
+                                    .replace(";", " "),
                             product.getImgUrl(),
                             product.getPrice() + "",
                             product.getRating() + "",
